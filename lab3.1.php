@@ -77,7 +77,8 @@
       <br><hr><br>
 		<input type="submit" value="Submit">
 </fieldset>               
-
+<br><br>
 	</form>
+	
 </body>
 </html>
