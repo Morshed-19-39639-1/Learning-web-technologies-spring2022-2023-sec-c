@@ -28,7 +28,7 @@
             $bloodGroup = $_POST['blood-group'];
             echo "<p>Your blood group is: $bloodGroup</p>";
           } else {
-            echo "<p>No data was submitted.</p>";
+            echo "<p> No data submitted.</p>";
           }
 	?>
 </body>
