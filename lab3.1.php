@@ -34,7 +34,6 @@
         <label for="gender">Gender:</label>
         </legend>
         
-        
       <input type="radio" id="male" name="gender" value="male">
       <label for="male">Male</label>
       
