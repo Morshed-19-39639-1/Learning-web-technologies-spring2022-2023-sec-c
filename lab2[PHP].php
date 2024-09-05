@@ -31,15 +31,15 @@ echo round($price * (($vat / 100) + 1), 2);
 ?>
 <?php  
 echo "<br/> 3no : <br/>";
-$number=1233456;  
-if($number%2==0)  
-{  
- echo "$number is Even Number";   
-}  
-else  
-{  
- echo "$number is Odd Number";  
-}   
+     $number=1233456;  
+     if($number%2==0)  
+     {  
+      echo "$number is Even Number";   
+     }  
+     else  
+     {  
+      echo "$number is Odd Number";  
+     }   
 ?> 
 <?php
 echo "<br/> 4no : <br/>";
