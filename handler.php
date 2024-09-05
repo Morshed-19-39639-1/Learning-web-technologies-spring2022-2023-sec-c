@@ -26,7 +26,7 @@
 
         if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             $bloodGroup = $_POST['blood-group'];
-            echo "<p>Your blood group is: $bloodGroup</p>";
+            echo "<p> Your blood group is: $bloodGroup</p>";
           } else {
             echo "<p> No data submitted.</p>";
           }
